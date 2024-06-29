@@ -11,3 +11,5 @@
 
 4.  Sn1per - Powerful vulnerability scanner (Web and Network)
    - Link - https://github.com/1N3/Sn1per
+
+5. Use 'Capture' module of MSF to create fake FTP, SMB, http basic, telnet, etc login on specific server and get credentials (phishing).
