@@ -16,3 +16,5 @@
 
 6. Penelope -> Alternative for netcat, similar to meterpreter shell.
   > https://github.com/brightio/penelope 
+
+7. SubOwner -> This tool is designed to check for subdomain takeovers by resolving the CNAME records and verifying them against known vulnerable services.
